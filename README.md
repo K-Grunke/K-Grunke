@@ -1,7 +1,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- LEWA KOLUMNA: GIF -->
-    <td width="60%" valign="top">
+    <td width="70%" valign="top">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rwb29pY21lZHp2dmMwMXFpcjhrdXh0a2ZtcXVqZGRzNTY3MThwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F4xpNqruVoNfK9UpWb/giphy.gif" width="100%" alt="Hi, I'm Konrad" />
     </td>
 
