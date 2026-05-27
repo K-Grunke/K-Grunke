@@ -76,7 +76,7 @@
   <tr>
     <!-- KOLUMNA TEKSTU -->
     <td width="70%" valign="top">
-      <p align="left">
+      <p align="justify">
         I am a computer science student combining an analytical data science background with a passion for cloud architecture, containerization, and backend development. I build solutions at the intersection of code and infrastructure—from exploratory data analysis and training AI models to deploying them in scalable environments.<br><br>
         Furthermore, I believe that a great model is only half the battle, which is why I put a strong emphasis on how applications work "under the hood". I navigate between writing automation scripts in Linux, building APIs in .NET, and designing analytical dashboards.<br><br>
         Recently, I've also been exploring the offensive side of the grid, learning pentesting and ethical hacking to understand systems from the inside out.<br><br>
