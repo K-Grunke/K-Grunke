@@ -1,7 +1,7 @@
 <!-- BANER SŁOŃCE Z OGRANICZONĄ WYSOKOŚCIĄ -->
 <div align="center">
   <!-- Wstaw swój link giphy zamiast 'image_url_sun_header' -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRvY3N6aXhxbmlkYTl3bHQ1MWI0eHQ0NGtjOHplZW5ybzdtd2V4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yjmd3qANIJTREL3RW2/giphy.gif" width="100%" height="300" alt="Cyberpunk Sun Header" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRvY3N6aXhxbmlkYTl3bHQ1MWI0eHQ0NGtjOHplZW5ybzdtd2V4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yjmd3qANIJTREL3RW2/giphy.gif" width="100%" height="250" alt="Cyberpunk Sun Header" />
 </div>
 
 <br>
