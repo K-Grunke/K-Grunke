@@ -1,6 +1,5 @@
-<!-- BANER SŁOŃCE Z OGRANICZONĄ WYSOKOŚCIĄ -->
 <div align="center">
-  <!-- Wstaw swój link giphy zamiast 'image_url_sun_header' -->
+  
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRvY3N6aXhxbmlkYTl3bHQ1MWI0eHQ0NGtjOHplZW5ybzdtd2V4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yjmd3qANIJTREL3RW2/giphy.gif" width="100%" height="250" alt="Cyberpunk Sun Header" />
 </div>
 
@@ -71,7 +70,7 @@
 
 <br>
 
-<!-- NOWA TABELA DLA ABOUT ME (TEKST I BUŹKA) -->
+<!-- TABELA DLA ABOUT ME (TEKST I BUŹKA) -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- KOLUMNA TEKSTU -->
@@ -87,7 +86,6 @@
     </td>
     <!-- KOLUMNA BUŹKI -->
     <td width="30%" valign="top" align="center">
-      <!-- Wstaw swój link giphy zamiast 'image_url_smiley_portrait' -->
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh6OHRhbWJ4ZXJodjZpemNxMTQzdnV5cnMyN2wyem4zNDNnNnh3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFZOMmCdFvt2CcOscF/giphy.gif" width="300" alt="Cyberpunk Smiley" />
     </td>
   </tr>
